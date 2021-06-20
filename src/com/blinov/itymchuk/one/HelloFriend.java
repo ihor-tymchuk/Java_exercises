@@ -1,10 +1,11 @@
-package one;
+package com.blinov.itymchuk.one;
 
 /*
-    Вітає будь якого користувача при вводі його імені через командний рядок
+    Welcome user
+    You have to input your name in command line.
 */
 
-public class HelloFriends {
+public class HelloFriend {
     public static void main(String[] args) {
         sayHi(args);
     }

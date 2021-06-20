@@ -1,4 +1,4 @@
-package two;
+package com.blinov.itymchuk.two;
 
 public class Demo {
     public static void main(String[] args) {

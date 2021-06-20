@@ -1,4 +1,4 @@
-package two;
+package com.blinov.itymchuk.two;
 
 import java.util.Arrays;
 import java.util.Scanner;

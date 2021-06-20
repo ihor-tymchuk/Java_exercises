@@ -1,4 +1,4 @@
-package one;
+package com.blinov.itymchuk.one;
 
 public class CheckPassword {
     private static String password = "vasy";

@@ -1,4 +1,4 @@
-package one;
+package com.blinov.itymchuk.one;
 /*
     Відображає в консолі аргументи командного рядка в зворотному порядку
  */

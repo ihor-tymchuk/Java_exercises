@@ -1,7 +1,7 @@
-package one;
+package com.blinov.itymchuk.one;
 
 /*
-    test comand line
+    test command line
  */
 
 public class Echo {

@@ -1,4 +1,4 @@
-package one;
+package com.blinov.itymchuk.one;
 
 import java.util.Scanner;
 

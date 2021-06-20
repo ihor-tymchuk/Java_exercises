@@ -1,4 +1,4 @@
-package two;
+package com.blinov.itymchuk.two;
 
 /**
  * The {@code Title} class create and print info about author program

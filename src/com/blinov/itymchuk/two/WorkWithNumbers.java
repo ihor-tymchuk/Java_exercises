@@ -1,4 +1,4 @@
-package two;
+package com.blinov.itymchuk.two;
 
 public class WorkWithNumbers {
     private String[] array;
