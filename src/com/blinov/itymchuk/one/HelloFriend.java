@@ -1,9 +1,10 @@
 package com.blinov.itymchuk.one;
 
-/*
-    Welcome user
-    You have to input your name in command line.
-*/
+/**
+ * Welcome user.
+ * You have to input your name in command line.
+ * This program print welcome with your name.
+ **/
 
 public class HelloFriend {
     public static void main(String[] args) {

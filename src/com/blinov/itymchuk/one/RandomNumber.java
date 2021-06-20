@@ -2,9 +2,9 @@ package com.blinov.itymchuk.one;
 
 import java.util.Scanner;
 
-/*
-    Виводить задану кількість випадкових чисел чисел з переходом і без переходу на новий рядок
- */
+/**
+    Displays a specified number of random numbers of numbers with transition and without transition to a new line
+ **/
 
 public class RandomNumber {
     public static void main(String[] args) {

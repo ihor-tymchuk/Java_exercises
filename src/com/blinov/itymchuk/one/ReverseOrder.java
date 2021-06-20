@@ -1,7 +1,7 @@
 package com.blinov.itymchuk.one;
-/*
-    Відображає в консолі аргументи командного рядка в зворотному порядку
- */
+/**
+    This program print arguments reverse order
+ **/
 public class ReverseOrder {
     public static void main(String[] args) {
         reverseArgs(args);
@@ -12,7 +12,7 @@ public class ReverseOrder {
             if(i-1 != 0) {
                 System.out.print(array[i-1] + " ");
             } else {
-                System.out.print(array[i-1]);
+                System.out.println(array[i-1]);
             }
         }
     }
