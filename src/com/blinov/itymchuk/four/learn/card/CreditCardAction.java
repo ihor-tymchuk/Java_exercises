@@ -1,7 +1,7 @@
 package com.blinov.itymchuk.four.learn.card;
 
-public class CreditCardAction extends CardAction{
-    public boolean checkCreditLimit(){
+public class CreditCardAction extends CardAction {
+    public boolean checkCreditLimit() {
         System.out.println("check limit for credit card: " + true);
         return true;
     }

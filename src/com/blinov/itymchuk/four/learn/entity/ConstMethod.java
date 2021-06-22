@@ -1,15 +1,19 @@
 package com.blinov.itymchuk.four.learn.entity;
 
 class ConstMethod {
-    final void method(){}
-    void methodOver(){}
+    final void method() {
+    }
+
+    void methodOver() {
+    }
 }
 
 class Sub extends ConstMethod {
     @Override
-    void methodOver(){}
+    void methodOver() {
+    }
 
     // Наступний метод не можливий
-    @Override
-    void method(){}
+//    @Override
+//    void method(){}
 }
